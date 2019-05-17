@@ -1,0 +1,60 @@
+#showcase{
+  min-height: 670px;
+  background:url('../img/Komputer1.jpg');
+  text-align: left;
+  color: #ffffff;
+}
+#showcase h1{
+    margin-top: 30px;
+    font-size: 44px;
+    margin-bottom: 10px;
+}
+#showcase p{
+  font-size: 20px;
+}
+
+#showcase{
+  padding:0px;
+}
+
+footer {
+  padding: 20px;
+  margin-top: 0px;
+  background-color: #e8491d;
+  color: #ffffff;
+  text-align: center;
+}
+
+#footerAbout{
+  float: none;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #e8491d;
+  color: #ffffff;
+  text-align: center;
+}
+
+#footerAbout{
+  padding: 20px;
+  margin-top: 150px;
+  background-color: #e8491d;
+  color: #ffffff;
+  text-align: center;
+}
+#datakegiatan{
+  min-height: 715px;
+  background:url('../img/Komputer1.jpg');
+  text-align: left;
+  padding:40px;
+  color: #ffffff;
+}
+header h1{
+	padding=20px;
+}
+#daftar{
+  min-height: 715px;
+  background:url('../img/Komputer1.jpg');
+  text-align: left;
+  padding:40px;
+  color: #ffffff;
+}
